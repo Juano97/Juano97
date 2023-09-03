@@ -1,5 +1,5 @@
 - 👋 Hi there! My name is Juan Carlos Vázquez
-- I live in Havana, Cuba
+- I live in Barcelona, Spain
 - I'm currently studying Computer Science in the University of Havana
 - I’m currently learning AI, IR systems and Software Engineering
 - You can reach me in [Telegram](https://t.me/Tropicalmonkey) 📫 
