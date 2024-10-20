@@ -1,7 +1,7 @@
 - 👋 Hi there! My name is Juan Carlos Vázquez
 - I live in Barcelona, Spain
-- I'm currently studying Computer Science in the University of Havana
-- I’m currently learning AI, IR systems and Software Engineering
+- I'm currently working as Software Developer in Barcelona
+- Security, IA and Linux enthusiast.
 - You can reach me in [Telegram](https://t.me/Tropicalmonkey) 📫 
 
 <!---
