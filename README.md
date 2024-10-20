@@ -1,6 +1,6 @@
 - 👋 Hi there! My name is Juan Carlos Vázquez
 - I live in Barcelona, Spain
-- I'm currently working as Software Developer in Barcelona
+- I'm currently working as a Software Developer.
 - Security, IA and Linux enthusiast.
 - You can reach me in [Telegram](https://t.me/Tropicalmonkey) 📫 
 
